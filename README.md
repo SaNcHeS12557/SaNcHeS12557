@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm RUBICK!</h1> 
 <h3 align="center">Beginning developer, love to learn new things :)</h3>
 
-- 🔭 I’m currently working on: **Forest(C++ OOP), FortuneWheel(C++ OOP)**
 
 - 🌱 I’m currently learning: **C, C++**
 
