@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning: **C, C++**
 
 - 📫 How to reach me: **rubick.github@gmail.com**
- 
-- ⚡ Fun fact: **I like to eat well** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
