@@ -3,7 +3,7 @@
 <h3 align="center">Beginning developer, love to learn new things :)</h3>
  
 
-- 🌱 I’m currently learning: **C, C++, Java**
+- 🌱 I’m currently learning: **C, C++, Java, Assembler, Bush**
 
 - 📫 How to reach me: **rubick.github@gmail.com**
 
